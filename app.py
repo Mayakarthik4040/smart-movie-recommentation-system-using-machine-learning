@@ -77,4 +77,4 @@ with st.expander("ℹ️ How this works"):
        
     )
 
-st.caption("Swap `movies.csv` for your full MovieLens file — same columns (movieId, title, genres), no code changes needed.")
+
